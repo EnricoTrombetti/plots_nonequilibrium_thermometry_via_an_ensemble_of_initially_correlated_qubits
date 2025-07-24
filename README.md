@@ -19,68 +19,68 @@ All the data used for the plots of the above mentioned article are saved in .dat
 The numbering follows that in the article.
 ### figure_02a.dat, figure_02b.dat, figure_02c.dat
 dimensions: (5,2,1600)
-5 temperatures
-2 arrays of values: time and QFI
+5 temperatures,
+2 arrays of values: time and QFI,
 1600 values for each array
 ### figure_03.dat
 dimensions: (6,2,1600)
-6 values of mu
-2 arrays of values: time and QFI
+6 values of mu,
+2 arrays of values: time and QFI,
 1600 values for each array
 ### figure_04.dat
 dimensions: (4,80,2)
-4 temperatures
-80 pair of values
+4 temperatures,
+80 pair of values,
 2 values per pair (mu, max(F_Q)-F(th))
 ### figure_05.dat
 dimensions: (5,40,2)
-5 values of eta
-40 pair of values
+5 values of eta,
+40 pair of values,
 2 values per pair (beta, v_mu)
 ### figure_06.dat
 dimensions: (6,60,2)
-6 values of a
-60 pair of values
+6 values of a,
+60 pair of values,
 2 values per pair (beta, v_r)
 ### figure_07a.dat, figure_07b.dat, figure_07c.dat
 dimensions: (11,2,1600)
-11 values of eta
-2 arrays of values: time and QFI
+11 values of eta,
+2 arrays of values: time and QFI,
 1600 values for each array
 ### figure_08.dat
 dimensions: (6,60,2)
-6 values of mu
-60 pair of values
+6 values of mu,
+60 pair of values,
 2 values per pair (beta, v_eta)
 ### figure_09abc.dat
 dimensions: (21,6,1600)
-21 values of chi
-6 arrays of values: time, QFI, negativity, (empty) , concurrence, mutual information
+21 values of chi,
+6 arrays of values: time, QFI, negativity, (empty) , concurrence, mutual information,
 1600 values for each array
 ### figure_09d.dat
 dimensions: (21, 2, 3000)
-21 values of chi
-6 arrays of values: time, purity
+21 values of chi,
+6 arrays of values: time, purity,
 3000 values for each array
 ### figure_10.dat
 dimensions: (6, 1600, 2)
-6 values of chi
-1600 pair of values 
+6 values of chi,
+1600 pair of values ,
 2 values per pair (time, QFI difference)
 ### figure_11abc.dat
 dimensions: (21,6,1600)
-21 values of alpha
-6 arrays of values: time, QFI, negativity, (empty) , concurrence, mutual information
+21 values of alpha,
+6 arrays of values: time, QFI, negativity, (empty) , concurrence, mutual information,
 1600 values for each array
 ### figure_11d.dat
 dimensions: (21, 2, 3000)
-21 values of alpha
-6 arrays of values: time, purity
+21 values of alpha,
+6 arrays of values: time, purity,
 3000 values for each array
 ### figure_12.dat
 dimensions:(6,5,2)
-6 initial states
-5 points for each state
+6 initial states,
+5 points for each state,
 2 values per pair (N, QFI)
 
 ## ADDITIONAL INFORMATION
