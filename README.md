@@ -2,9 +2,9 @@ This repository contains the data employed for the article:
 
 "Nonequilibrium thermometry via an ensemble of initially correlated qubits"
 
-Enrico Trombetti*, Marco Pezzutto, Marco Malitesta, Stefano Gherardini
+Enrico Trombetti*, Marco Malitesta, Marco Pezzutto, Stefano Gherardini
 
-https://arxiv.org/abs/2507.03471
+https://arxiv.org/abs/2507.03471 (old version)
 
 *enrico.trombetti@ino.cnr.it
 
@@ -14,7 +14,7 @@ We find strong numerical evidence that, given same single-qubit reduced states, 
 Finally, although the Markovian dynamics does not permit superlinear scaling of the QFI with the number of probes, we identify the most effective initial states for designing high-precision quantum thermometers within this setting. We also provide concrete guidelines for experimental implementations."
 
 ## REPOSITORY CONTENT
-All the data used for the plots of the above mentioned article are saved in .dat files inside the "data" folder. The Jupiter Notebook "plots_nonequilibrium_thermometry_via_an_ensemble_of_initially_correlated_qubits.ipynb" contains some short Python scripts that reproduce almost all figures from the paper, using the values contained in the "data" folder.
+All the data used for the plots of the above mentioned article are saved in .json files inside the "data" folder. The Jupiter Notebook "plots_nonequilibrium_thermometry_via_an_ensemble_of_initially_correlated_qubits.ipynb" contains some short Python scripts that reproduce almost all figures from the paper, using the values contained in the "data" folder.
 
 ## ADDITIONAL INFORMATION
 Additional information is available upoun request by email
